@@ -23,3 +23,9 @@ python -m pip install‭ ‬–r‭ ‬requirements.txt
 <p align = "center">
   <img src= "https://github.com/Kalveir/Program-Pencatat-Data-Peserta-Vaksinasi/blob/master/screenshoot/input.jpg">
 </p>
+<p align = "center">
+  <img src= "https://github.com/Kalveir/Program-Pencatat-Data-Peserta-Vaksinasi/blob/master/screenshoot/Cari.jpg">
+</p>
+<p align = "center">
+  <img src= "https://github.com/Kalveir/Program-Pencatat-Data-Peserta-Vaksinasi/blob/master/screenshoot/Export.jpg">
+</p>
