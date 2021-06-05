@@ -5,7 +5,7 @@ Wassalam...
 
 # Instalation
 ```
-git‭ ‬clone‭ ‬https://github.com/Kalveir/Program-Pencatat-Data-Peserta-Vaksinasi
+git‭ ‬clone‭ ‬https://github.com/Kalveir/Program-Pencatat-Data-Peserta-Vaksinasi.git
 cd Program-Pencatat-Data-Peserta-Vaksinasi
 python -m pip install‭ ‬–r‭ ‬requirements.txt
 ```
@@ -16,3 +16,7 @@ python -m pip install‭ ‬–r‭ ‬requirements.txt
 - Sqlite
 - Sqlite Studio
 
+# Screen Shoot
+<p align = "center">
+  <img src= "https://github.com/Kalveir/Program-Pencatat-Data-Peserta-Vaksinasi/blob/master/screenshoot/Tabel.jpg">
+</p>
