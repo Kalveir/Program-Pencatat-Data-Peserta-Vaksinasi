@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>trash.png</file>
+    <file>akaza.png</file>
+    <file>logo-gmail-png-gmail-icon-download-png-and-vector-1.png</file>
+    <file>telegram-logo-png-0.png</file>
+    <file>info.png</file>
+    <file>publish.png</file>
+    <file>refresh.png</file>
+    <file>search.png</file>
+    <file>Add.png</file>
+  </qresource>
+</RCC>

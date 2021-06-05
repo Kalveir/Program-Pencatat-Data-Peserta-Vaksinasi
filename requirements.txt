@@ -1,0 +1,4 @@
+PyQt5_Qt5==5.15.2
+PyQt5_sip==12.8.1
+PyQt5==5.15.4
+XlsxWriter==1.4.3
