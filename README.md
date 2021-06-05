@@ -6,8 +6,13 @@ Wassalam...
 # Instalation
 ```
 git‭ ‬clone‭ ‬https://github.com/Kalveir/Program-Pencatat-Data-Peserta-Vaksinasi
-
 cd Program-Pencatat-Data-Peserta-Vaksinasi
-
 python -m pip install‭ ‬–r‭ ‬requirements.txt
 ```
+# Requipment tool:
+- Python3.5+
+- Vim
+- QtDesigner
+- Sqlite
+- Sqlite Studio
+
