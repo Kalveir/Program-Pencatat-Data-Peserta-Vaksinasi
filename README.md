@@ -4,9 +4,11 @@ Program ini merupakan program sederhana yang‭ ‬berfungsi mencatat data peser
 Wassalam...
 
 # Instalation
-```
+```sh
 git‭ ‬clone‭ ‬https://github.com/Kalveir/Program-Pencatat-Data-Peserta-Vaksinasi.git
 cd Program-Pencatat-Data-Peserta-Vaksinasi
+```
+```sh
 python -m pip install‭ ‬–r‭ ‬requirements.txt
 ```
 # Requipment tool:
